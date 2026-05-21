@@ -1,0 +1,5 @@
+langchain
+langchain-groq
+redis
+python-dotenv
+numpy
