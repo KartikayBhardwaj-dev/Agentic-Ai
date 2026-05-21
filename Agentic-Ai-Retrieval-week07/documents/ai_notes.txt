@@ -1,0 +1,15 @@
+LangGraph supports stateful workflows and graph orchestration.
+
+Retries help recover from failures in AI systems.
+
+Checkpoints allow workflows to resume after interruption.
+
+Redis is commonly used for workflow memory persistence.
+
+Re-ranking improves retrieval relevance.
+
+Context compression reduces token usage.
+
+Multi-query retrieval improves retrieval quality.
+
+Query rewriting optimizes search performance.
